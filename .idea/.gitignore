@@ -1,0 +1,17 @@
+# Default ignored files
+/workspace.xml
+/../target/classes/BinaryGap.class
+/../target/test-classes/BinaryGapTest.class
+/compiler.xml
+/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_1.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_1.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_1.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_1.xml
+/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_1.xml
+/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_1.xml
+/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml
+/misc.xml
+/modules.xml
+/problem-solving.iml
+/vcs.xml
