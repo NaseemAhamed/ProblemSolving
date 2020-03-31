@@ -30,8 +30,8 @@ public class BinaryGap {
                 .orElse(0);
     }
 
-    public static void main(String[] args) {
-        int a = 36;
-        System.out.println("The longest binary gap length is " + findLongestBinaryGap(a));
-    }
+//    public static void main(String[] args) {
+//        int a = 36;
+//        System.out.println("The longest binary gap length is " + findLongestBinaryGap(a));
+//    }
 }
